@@ -1,16 +1,9 @@
 # challenge_app
 
-A new Flutter project.
+A challenge app made with Flutter and BLoC pattern.
 
-## Getting Started
+![Simulator Screen Shot - iPhone 13 - 2023-05-17 at 12 32 09](https://github.com/mehdiChibani/challeng_app/assets/43273806/e41b4313-df88-4ef6-94cd-4f3a4e0bbcfd)
 
-This project is a starting point for a Flutter application.
+![Simulator Screen Shot - iPhone 13 - 2023-05-17 at 12 30 18](https://github.com/mehdiChibani/challeng_app/assets/43273806/01aaa5c9-7a0f-452c-93f1-c8e23d338156)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 13 - 2023-05-17 at 12 33 11](https://github.com/mehdiChibani/challeng_app/assets/43273806/35104593-77f4-440d-b56c-0ffa2e563de1)
